@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<head>  
+    <!--*inserting tabs*-->
+   <!-- Tab links -->
+      <div class="tab">
+        <button class="tablinks" onclick="open(event,'Google')">Google</button>
+        <button class="tablinks" onclick="open(event,'Linkedin')">Linkedin</button>
+        <button class="tablinks" onclick="open(event,'Facebook')">Facebook</button>
+        <button class="tablinks" onclick="open(event,'Tesla')">Tesla</button>
+        <button class="tablinks" onclick="open(event,'NASA')">NASA</button>
+      </div>
+  
+      <!--*inserting tabs content**-->
+  
+  <!--*google content**-->
+      <div id="Google" class="tabcontent">
+         <h1>Google</h1>
+        <body style="background-image:url('http://google.com/search?    tbm=isch&q=Kung%20Fu%20Panda:%20The%20IMAX%20Experience')">
+        <a href="https://www.google.com" target="_blank">Visit google</a>
+        <p>In the Valley of Peace, a land in ancient China inhabited by anthropomorphic animals, the giant panda Po            is a kung fu fanatic<br> who idolizes the Furious Five Tigress, Monkey, Mantis, Viper, and Crane  a                qouintet of kung fu students trained <br>by the red panda Master Shifu. As he helps his adoptive goose              father Mr. Ping in his noodle restaurant, Po is unable to pursue his dream of becoming a kung fu master            himself.</p>
+          </body>
+        </div>
+<!--*linkedin content**-->
+      <div id="Linkedin" class="tabcontent">
+          <h1>Linkedin</h1>
+            <body style="background-image:url('http://google.com/search?    tbm=isch&q=Kung%20Fu%20Panda:%20The%20IMAX%20Experience')">
+            <a href="https://www.linkedin.com" target="_blank">Visit linkedin</a>  
+        <p>Master Po Ping birth name Lotus Shan is the title character and the protagonist <br>of the Kung Fu                  Panda franchise. He is a young anthropomorphic giant panda in his 20s who is improbably chosen as the              Dragon Warrior champion of the Valley of Peace in the first film</p>
+          </body>
+        </div>
+        
